@@ -1,0 +1,45 @@
+*{
+    margin-right: 150px;
+}
+
+.definicao{
+    font-family: 'Caveat', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 40px;
+}
+
+h2{
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.box{
+    display: flex;
+}
+
+.primeiro{
+    border: 2px;
+    margin-right: 60px;
+    margin-left: 520px;
+}
+.get-out{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: black;
+}
+
+.segundo{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    border: 2px;
+}
+
+.terceiro{
+    border: 2px;
+}

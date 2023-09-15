@@ -1,0 +1,43 @@
+
+
+.definicao{
+    font-family: 'Sans Comic Sans', sans-serif;
+    font-size: 40px;
+    padding-right: 1000p;
+}
+
+h2{
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.box{
+    display: flex;
+}
+
+.primeiro{
+    margin-right: 60px;
+    margin-left: 500px;
+}
+
+.get-out{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: black;
+}
+
+.segundo{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    border: 2px;
+}
+
+.terceiro{
+    border: 2px;
+}

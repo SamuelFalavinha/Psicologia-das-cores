@@ -1,0 +1,19 @@
+
+*{
+    list-style: none;
+}
+
+header{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    color: gray;
+}
+
+.selecao-de-cores{
+    display: flex;
+    flex: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 35px;
+}
